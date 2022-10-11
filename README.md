@@ -26,3 +26,8 @@ Manually deploy your application to this environment by uploading a .zip file
 
   * Using the same server, create a new environment using Elastic Beanstalk from your terminal
 Manually deploy your application to this environment by using `eb deploy`
+
+## Deployed Sites
+
+* [GUI](http://lab16-env-1.eba-sfbpueh8.us-west-2.elasticbeanstalk.com/)
+* [CLI](http://lab16-env-1.eba-sfbpueh8.us-west-2.elasticbeanstalk.com/)
